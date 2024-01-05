@@ -2,7 +2,7 @@
   "name": "portfoliowebsite",
   "version": "1.0.0",
   "description": "🚀 Explore my dynamic portfolio website crafted with HTML, CSS, and JavaScript! 🌐 Elevate your online presence with a sleek design, interactive features, and a showcase of my projects.",
-  "main": "script.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
